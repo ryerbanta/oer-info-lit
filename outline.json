@@ -1,0 +1,50 @@
+[
+  {
+    "id": "outline-item-0",
+    "indent": 0,
+    "location": "content\\Chapter 1.html",
+    "order": 0,
+    "parent": null,
+    "title": "Chapter 1"
+  },
+  {
+    "id": "outline-item-9",
+    "indent": 0,
+    "location": "content\\Chapter 2.html",
+    "order": 1,
+    "parent": null,
+    "title": "Chapter 2"
+  },
+  {
+    "id": "outline-item-10",
+    "indent": 0,
+    "location": "content\\Chapter 3.html",
+    "order": 2,
+    "parent": null,
+    "title": "Chapter 3"
+  },
+  {
+    "id": "outline-item-11",
+    "indent": 1,
+    "location": "content\\3.1.html",
+    "order": 0,
+    "parent": "outline-item-10",
+    "title": "3.1"
+  },
+  {
+    "id": "outline-item-12",
+    "indent": 1,
+    "location": "content\\3.2.html",
+    "order": 1,
+    "parent": "outline-item-10",
+    "title": "3.2"
+  },
+  {
+    "id": "outline-item-13",
+    "indent": 0,
+    "location": "content\\Chapter 4.html",
+    "order": 3,
+    "parent": null,
+    "title": "Chapter 4"
+  }
+]
